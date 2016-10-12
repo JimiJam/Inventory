@@ -1,0 +1,68 @@
+[
+	{
+		"id": 0,
+		"title": "Frostmourne",
+		"description": "I hear the voice...",
+		"price": 999,
+		"type": "Equipment",
+		"stackable": false,
+		"quest": true,
+		"slug": "frostmourne"
+	},
+	{
+		"id": 1,
+		"title": "Potion of health",
+		"description": "Wake up and fight!",
+		"price": 100,
+		"type": "Consumable",
+		"stackable": true,
+		"quest": false,
+		"slug": "potion_of_health"
+	},	
+	{
+		"id": 2,
+		"title": "Potion of speed",
+		"description": "Now you Sonic Hedgehog!",
+		"price": 130,
+		"type": "Consumable",
+		"stackable": true,
+		"quest": false,
+		"slug": "potion_of_speed"
+	},{
+		"id": 3,
+		"title": "Steel Sword",
+		"description": "Not better choice",
+		"price": 75,
+		"type": "Equipment",
+		"stackable": false,
+		"quest": false,
+		"slug": "steel_sword"
+	},{
+		"id": 4,
+		"title": "Horns and hoof",
+		"description": "Pigs",
+		"price": 10,
+		"type": "Trash",
+		"stackable": true,
+		"quest": false,
+		"slug": "horns_and_hoof"
+	},{
+		"id": 5,
+		"title": "Chest Key",
+		"description": "Open chest and get EPIC LOOT!",
+		"price": 1,
+		"type": "Trash",
+		"stackable": false,
+		"quest": true,
+		"slug": "chest_key"
+	},{
+		"id": 6,
+		"title": "Lantern",
+		"description": "In brightest day, in blackest night, \nNo evil shall escape my sight ",
+		"price": 1,
+		"type": "Equipment",
+		"stackable": false,
+		"quest": true,
+		"slug": "ghostly_lantern"
+	}
+]
